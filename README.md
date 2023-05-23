@@ -184,7 +184,7 @@ As a full stack developer, I have 7 years of experience in web development.
   </a>
 </p>
 
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=creativebull&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=creativebull&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) |
+| ![Github stats](https://github-readme-stats.vercel.app/api?username=adaptive-beaver&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adaptive-beaver&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creativebull&include_all_commits=true&count_private=true&theme=tokyonight)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adaptive-beaver&include_all_commits=true&count_private=true&theme=tokyonight)
 <br>
