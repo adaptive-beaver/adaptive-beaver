@@ -3,9 +3,7 @@
 <span><b>[ React / Next.js / Vue.js / Gatsby / TypeScript / Node.js / Express / GraphQL / React-Native ]</b></span>
 
 As a full stack developer, I have 7 years of experience in web development.
-
 <br>
-
 - Frontend
 - Backend
 - Web Development
@@ -190,27 +188,3 @@ As a full stack developer, I have 7 years of experience in web development.
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creativebull&include_all_commits=true&count_private=true&theme=tokyonight)
 <br>
-
-
-
-
-## Core skills!
-
-✔ <b>Front-end</b> : React js / Next.js / TypeScript / Vue.js / Svelte.js / TailwindCSS / Material UI <br>
-✔ <b>Back-end</b> : Node.js / Express / Nest.js / Django / Laravel  <br>
-✔ <b>Database</b> : Mysql / PostgreSQL /MongoDB <br>
-✔ <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python <br>
-<br>
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=adaptive-beaver&column=8)](https://github-profile-trophy.vercel.app/?username=adaptive-beaver&column=8)
-
- <br>
-
-<span>
-<img src="https://api.githubtrends.io/user/svg/adaptive-beaver/repos" width="300px" />
-<img src="https://api.githubtrends.io/user/svg/adaptive-beaver/langs" width="300px" />
-</span>
-
-</details>
-
