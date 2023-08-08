@@ -1,8 +1,8 @@
 ##  *Thanks you for visiting my profile.*
 
-<span><b>[ React / Next.js / Vue.js / Gatsby / TypeScript / Node.js / Express / GraphQL / React-Native ]</b></span>
+<span><b>[ React / Next.js / Vue.js / Gatsby / TypeScript / Node.js / React-Native / Flutter / Wordpress / Laravel / Django ]</b></span>
 
-As a full stack developer, I have 7 years of experience in web development.
+As a full stack developer, I have 7 years of experience in web development and focusing on MERN stack, React Native and Flutter.
 <br>
 - Frontend
 - Backend
